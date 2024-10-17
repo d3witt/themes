@@ -15,7 +15,7 @@
                 "border.disabled": "#3A3A3A80",
                 "elevated_surface.background": "#04313bff",
                 "surface.background": "#04313bff",
-                "background": "#000c0fB8",
+                "background": "#001a1dE6",
                 "background.appearance": "blurred",
                 "element.background": "#04313bff",
                 "element.hover": "#053541ff",
@@ -33,14 +33,14 @@
                 "text.placeholder": null,
                 "text.disabled": null,
                 "text.accent": null,
-                "status_bar.background": "#000c0fE6",
-                "title_bar.background": "#000c0fE6",
-                "toolbar.background": "#00141a",
-                "tab_bar.background": "#000c0fE6",
+                "status_bar.background": "#001a1dE6",
+                "title_bar.background": "#001a1dE6",
+                "toolbar.background": "#00141a00",
+                "tab_bar.background": "#001a1d",
                 "tab.inactive_background": "#00000000",
                 "tab.active_background": "#002b3650",
                 "search.match_background": null,
-                "panel.background": "#000c0f30",
+                "panel.background": "#000c0f50",
                 "panel.focused_border": null,
                 "pane.focused_border": null,
                 "scrollbar_thumb.background": "#003a4dCC",
@@ -49,16 +49,16 @@
                 "scrollbar.track.background": "#00273000",
                 "scrollbar.track.border": "#ffffff00",
                 "editor.foreground": "#adbcbc",
-                "editor.background": "#00141a",
-                "editor.gutter.background": "#00141a",
+                "editor.background": "#00141a00",
+                "editor.gutter.background": "#00141a00",
                 "editor.subheader.background": null,
-                "editor.active_line.background": "#011f28",
+                "editor.active_line.background": "#2c4f5950",
                 "editor.highlighted_line.background": null,
                 "editor.line_number": "#5f7980",
                 "editor.active_line_number": "#adbcbc",
                 "editor.wrap_guide": "#00141a80",
                 "editor.active_wrap_guide": "#3A3A3A",
-                "terminal.background": "#00141a",
+                "terminal.background": "#00141a00",
                 "terminal.foreground": "#94a7a7",
                 "terminal.bright_foreground": "#748485",
                 "terminal.dim_foreground": "#001f26",
@@ -132,7 +132,7 @@
                 "players": [
                     {
                         "cursor": "#adbcbc",
-                        "selection": "#01222b"
+                        "selection": "#2c4f59"
                     }
                 ],
                 "syntax": {
@@ -212,12 +212,12 @@
                         "font_weight": null
                     },
                     "function": {
-                        "color": "#adbcbc",
+                        "color": "#4494f6",
                         "font_style": null,
                         "font_weight": null
                     },
                     "function.method": {
-                        "color": "#dbb32d",
+                        "color": "#4494f6",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -282,7 +282,7 @@
                         "font_weight": 600
                     },
                     "type": {
-                        "color": "#4494f6",
+                        "color": "#dbb32d",
                         "font_style": null,
                         "font_weight": null
                     },
